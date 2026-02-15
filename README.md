@@ -66,22 +66,6 @@ From the cleaned Instagram data, the following insights were extracted:
 
 ---
 
-## 📂 Files Included
-
-| File | Description |
-|------|-------------|
-| `openai_followers.txt` | Raw Instagram follower data |
-| `cleaned_data.json` | Structured cleaned dataset |
-| `analysis.ipynb` | Jupyter Notebook with full Python code |
-| `README.md` | Project documentation |
-
----
-
-## 🚀 Future Improvements
-
-- Add visualization (matplotlib / seaborn)
-- Automate Instagram scraping
-- Add trend analysis over time
 
 ---
 
@@ -90,5 +74,5 @@ From the cleaned Instagram data, the following insights were extracted:
 **Bhargavi Pandey**  
 A passionate data science and Python learner exploring real-world data through hands-on projects.
 
-5. **Analysis and insights extraction**
+
 
